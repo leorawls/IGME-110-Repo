@@ -13,8 +13,8 @@
     <li><a href="https://www.britannica.com/place/Hawaii-state">Hawaii</a></li>
     <li><a href="https://www.britannica.com/place/The-Bahamas">Bahammas</a></li>
     <li><a href="https://www.britannica.com/place/Florida-Keys">Florida Keys</a></li>
-    <li><a href="Las Vegas - https://www.britannica.com/place/Las-Vegas-Nevada">Las Vegas</a></li>
-    <li><a href="ttps://www.britannica.com/place/Italy">Italy</a></li>
+    <li><a href="https://www.britannica.com/place/Las-Vegas-Nevada">Las Vegas</a></li>
+    <li><a href="https://www.britannica.com/place/Italy">Italy</a></li>
   </ul>
 </body>
 </html>
